@@ -1,3 +1,9 @@
-body{
+body {
     font-family: 'Lato', sans-serif;
+}
+
+.fruits-section p {
+    color: rgba(18, 18, 18, 0.80);
+    font-size: 20px;
+    font-weight: 500;
 }
